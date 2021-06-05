@@ -1,0 +1,8 @@
+﻿  Dll1.cpp
+c:\users\krlos\documents\visual studio 2017\projects\dll1\dll1\dll1.cpp(43): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'TCHAR *'
+  c:\users\krlos\documents\visual studio 2017\projects\dll1\dll1\dll1.cpp(43): note: considere el uso de ' %ls' en la cadena de formato
+  c:\users\krlos\documents\visual studio 2017\projects\dll1\dll1\dll1.cpp(43): note: considere el uso de ' %lls' en la cadena de formato
+  c:\users\krlos\documents\visual studio 2017\projects\dll1\dll1\dll1.cpp(43): note: considere el uso de ' %Ls' en la cadena de formato
+  c:\users\krlos\documents\visual studio 2017\projects\dll1\dll1\dll1.cpp(43): note: considere el uso de ' %ws' en la cadena de formato
+c:\users\krlos\documents\visual studio 2017\projects\dll1\dll1\dll1.cpp(49): warning C4477: 'wprintf' : la cadena de formato '%s' requiere un argumento de tipo 'wchar_t *', pero el argumento variádico 1 tiene el tipo 'DWORD'
+  Dll1.vcxproj -> C:\Users\krlos\Documents\Visual Studio 2017\Projects\Dll1\Debug\Dll1.dll
